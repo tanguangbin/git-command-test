@@ -1,4 +1,4 @@
 first file
 的地方
-git上修改
+git上修改 冲突产生
 本地修改了
